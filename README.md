@@ -6,4 +6,4 @@
     - npm install react-native-camera-kit --save
 3. Set permission
     - goto android -> app -> main -> AndroidMnifest.xml.
-    - <uses-permission android:name="android.permission.CAMERA"/>
+    - '<uses-permission android:name="android.permission.CAMERA"/>'
